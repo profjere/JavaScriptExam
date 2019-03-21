@@ -1,7 +1,7 @@
 # JavaScript Exam
 
 ## COMM 468: Javascript Exam (150 points)
-*Write the first two question in Microsoft Word. The rest can be done in code.  Visual Studio Code or Brackets is strongly encouraged as you can test in Chrome and check errors in the console.  To hand this in, label each file name with your name and question number (i.e., Smith_2.html, Smith_2.js) You must work over two files. Zip everything (including the Word document) and e-mail it to me. I will give partial credit.*
+*Write the first two question in Microsoft Word. The rest can be done in code.  Visual Studio Code or Brackets is strongly encouraged as you can test in Chrome and check errors in the console.  To hand this in, label each file name with your name and question number (i.e., Smith_2.html, Smith_2.js) You must work over two files. An HTML template is provided. Zip everything (including the Word document) and e-mail it to me. I will give partial credit.*
 
 I.	(10 points) What is the difference between these two sets of variables? Why is one likely more effective than the other?
 
