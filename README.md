@@ -1,6 +1,6 @@
 # JavaScript Exam
 
-##COMM 468: Javascript Exam (150 points)
+## COMM 468: Javascript Exam (150 points)
 *Write the first two question in Microsoft Word. The rest can be done in code.  Visual Studio Code or Brackets is strongly encouraged as you can test in Chrome and check errors in the console.  To hand this in, label each file name with your name and question number (i.e., Smith_2.html, Smith_2.js) You must work over two files. Zip everything (including the Word document) and e-mail it to me. I will give partial credit.*
 
 I.	(10 points) What is the difference between these two sets of variables? Why is one likely more effective than the other?
@@ -30,7 +30,7 @@ Write the next three programs: one file each for HTML and JavaScript.  Please co
 
 VII.	(30 points) Write a program that randomly prints any number to the screen.  [This only requires three lines of code.]
 
-VIII.	(30 points) Write a program that randomly generates a new sentence in the following format: NOUN VERB. There should be at least six nouns and six verbs (so 36 different combinations.) [This only requires six lines of code.]
+VIII.	(30 points) Write a program that randomly generates a new sentence in the following format: **NOUN VERB (i.e., The son walked. The butcher ate.)* There should be at least six nouns and six verbs (so 36 different combinations.) [This only requires six lines of code.]
 
 IX.	BONUS QUESTION: 30 points onto your overall points in the course. Write a program that accepts input from the user to redo the color of the background of the entire screen. 
 
