@@ -4,7 +4,9 @@
 *Write the first two question in Microsoft Word. The rest can be done in code.  Visual Studio Code or Brackets is strongly encouraged as you can test in Chrome and check errors in the console.  To hand this in, label each file name with your name and question number (i.e., Smith_2.html, Smith_2.js) You must work over two files. Zip everything (including the Word document) and e-mail it to me. I will give partial credit.*
 
 I.	(10 points) What is the difference between these two sets of variables? Why is one likely more effective than the other?
+
 a) pizza1, pizza2, pizza3, pizza4, pizza5
+
 b) pizza[1], pizza[2], pizza[3], pizza[4], pizza[5] 
 
 II.	(10 points) Assuming you had to write this game:
