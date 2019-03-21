@@ -13,7 +13,7 @@ II.	(10 points) Assuming you had to write this game:
 http://www.freepacman.org/
 How might you organize the code in functions?
 
-For questions 3-5, only a javascript page is required. It doesn’t need to write to an HTML page.
+**For questions 3-5, only a javascript page is required. It doesn’t need to write to an HTML page.**
 
 III.	(15 points) Write a statement in JavaScript that prints the following to the console:
 
@@ -26,9 +26,9 @@ IV.	(15 points) Write an if…then statement in JavaScript that checks if a vari
 V.	(20 points) Write a “book” object that takes as arguments: title, genre, author, and whether or not it’s in stock (available).  Assume it always is in stock when the program starts.  One method should put the book in stock and a second method should take the book out of stock.  Declare three instances of the book.  Use any made-up book information, real or not real, that you wish, for the three instances.
 
 VI.	(20 points) Debug the guessing.html and guessing.js available at:
-https://github.com/profjere/JavaScriptExam (Note: don’t worry about validating that the guess is a number-I promised no regular expressions.)
+https://github.com/profjere/JavaScriptExam (Note: don’t worry about validating that the guess is a number-I promised no regular expressions.) Rename the files to match the Name_question number format.
 
-Write the next three programs: one file each for HTML and JavaScript.  Please comment the lines and/or blocks of code (at least three times each). NOTE: there cannot be any JavaScript in the HTML page. It must all be done on the javascript page.
+**Write the next three programs: one file each for HTML and JavaScript.  Please comment the lines and/or blocks of code (at least three times each). NOTE: there cannot be any JavaScript in the HTML page. It must all be done on the javascript page.**
 
 VII.	(30 points) Write a program that randomly prints any number to the screen.  [This only requires three lines of code.]
 
